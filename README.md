@@ -1,2 +1,2 @@
 # Estudos banco de dados Oracle
- Oracle
+ Oracle / SQL
