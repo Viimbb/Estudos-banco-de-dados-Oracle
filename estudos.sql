@@ -43,6 +43,6 @@ WHERE (instituto = 'Datafolha' OR instituto='Ibobe') AND ano = 2018;
 
 -- Atualizar nome de pessoa em uma tabela do banco de dados (SET= coluna para atualizar)
 UPDATE  admestagiario.desenv_tab_estagiario
-SET FONEPRINC= '99147-5051' , GRAUINSTR= 'Ensino Medio Completo', AREAATUACAO= 'Artes Visuais'
-WHERE nome='Alan Patrick Cordeiro Pena';
+SET FONEPRINC= '' , GRAUINSTR= 'Ensino Medio Completo', AREAATUACAO= ''
+WHERE nome='';
 
